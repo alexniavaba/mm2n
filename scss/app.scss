@@ -29,3 +29,163 @@ $ionicons-font-path: "../lib/ionic/fonts" !default;
   box-shadow: none;
   color: #fff;
 }
+
+
+
+// Credentials
+
+.mm-login-fundo{    
+    background: #044B96;       
+}
+
+.mm-login-fundo-iat-gov-ba{
+    padding: 0 20px 0 20px;
+    background: #bfbfbf; 
+}
+
+.mm-login-img-iat-gov-ba{   
+    width: 100%;        
+}
+
+.mm-login-borda{
+    width: 100%;
+    height: 5px;
+    background: #E60004;
+    border-radius: 0 0 20px 20px;
+    box-shadow: 0px 5px 20px black;     
+}
+
+.mm-login-espaco{    
+    height: 15%;   
+}
+
+.mm-login-form{   
+    position: relative !important;
+    margin: 0 5% 0% 5%;    
+
+}
+
+.mm-login-titulo{    
+    margin-bottom: 10%;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+   
+}
+
+.mm-login-nome, .mm-login-senha{
+    border-style: solid !important;
+    border-color: transparent !important;
+    border-width: 2px !important;
+    background: #fff !important;
+    width: 100%;   
+    border-radius: 3px;
+
+}
+
+.mm-login-nome{
+  margin-bottom: 5%;
+}
+
+
+.mm-login-nome:focus, .mm-login-senha:focus{
+  box-shadow: 0 0 3px 3px  #0033cc;
+}
+
+
+.mm-login-btenter{  
+   position: absolute  !important;
+   background-color:  #0066cc !important;
+   width: 30% !important;    
+   border-radius: 30px !important; 
+   border: none;
+   right: 0;  
+}
+
+.mm-login-btenter:hover{    
+ box-shadow: 0 0 3px 3px  #0033cc;
+}
+
+.mm-login-lb{
+  position: relative !important;
+  margin-bottom: 5%;
+}
+
+.mm-login-showPasswordIsChecked{
+  position: absolute; 
+  top: 0;
+  right: 0;   
+  width: 40px;
+  height: 100%;
+  padding: 4px 7px ;
+  background-color: #FFFFFF;
+  border-radius: 3px;
+  font-size: 200%;
+}
+
+.mm-login-recup-senha{    
+    position: absolute;    
+    margin-top: 27px;
+    color: #FFFFFF;            
+}
+
+//Credentials
+
+
+//Interno
+.bar-header {
+  background: #044B96;  
+}
+
+ion-side-menu li .item{
+  background-color: #0456ae;
+  border-color: #bfbfbf;
+  color: #FFFFFF;
+  font-weight: bold;  
+}
+
+.mm-site_mm_courses section h2 span {
+  font-weight: bold;
+}
+
+.mm-site_mm_courses .tabs-icon-left {
+  background-color: #cde5fe;  
+}
+
+a.item.item-icon-left.ng-binding.activated{
+ transition: 2s;
+}
+
+.ion-ios-bookmarks {
+  color: #00ffff;
+}
+.ion-home {
+  color: #00ccff;
+}
+.ion-ios-bell {
+  color: #ffff99;
+}
+.ion-chatbox {
+  color: #5ECF43;
+}
+.ion-calendar {
+  color: #669900;
+}
+
+.ion-folder {
+  color: #ffff00;
+}
+.ion-earth {
+  color: #FFFFFF;
+}
+.ion-help-buoy {
+  color: #ff6600;
+}
+.ion-gear-b {
+  color: #ccccff;
+}
+.ion-log-out {
+  color: #ff3300;
+}
