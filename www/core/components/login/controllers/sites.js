@@ -77,9 +77,12 @@ angular.module('mm.core.login')
             modal.dismiss();
         });
     };
-
-    $scope.add = function() {
+    
+    $scope.add = (function() {
         $mmLoginHelper.goToAddSite();
-    };
-
+        $ionicHistory.nextViewOptions({
+            disableAnimate: true,
+            disableBack: true
+        });
+    })();
 });
