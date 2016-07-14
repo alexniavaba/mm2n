@@ -146,16 +146,37 @@ ion-side-menu li .item{
   font-weight: bold;  
 }
 
-.mm-site_mm_courses section h2 span {
+.mm-site_mm_courses section h2 span { 
   font-weight: bold;
 }
 
 .mm-site_mm_courses .tabs-icon-left {
-  background-color: #cde5fe;  
+  background-color: #e6f2fe;  
 }
 
 a.item.item-icon-left.ng-binding.activated{
+ background-color: #057bfa;
  transition: 2s;
+}
+
+.item.active, .item.activated, .item-complex.active .item-content, .item-complex.activated .item-content, .item .item-content.active, .item .item-content.activated {
+  background-color: #82bdfc;
+}
+
+.ion-briefcase{
+  color: #1a1a1a;
+}
+
+.ion-person-stalker{
+  color: #066fe0;
+}
+
+.ion-stats-bars{
+  color: #99cc00;
+}
+
+.ion-ios-list{
+  color: #bfbfbf;
 }
 
 .ion-ios-bookmarks {
@@ -171,7 +192,7 @@ a.item.item-icon-left.ng-binding.activated{
   color: #5ECF43;
 }
 .ion-calendar {
-  color: #669900;
+  color: #00ccff;
 }
 
 .ion-folder {
@@ -181,10 +202,10 @@ a.item.item-icon-left.ng-binding.activated{
   color: #FFFFFF;
 }
 .ion-help-buoy {
-  color: #ff6600;
+  color: #ff8533;
 }
 .ion-gear-b {
-  color: #ccccff;
+  color: #e6e6e6;
 }
 .ion-log-out {
   color: #ff3300;
