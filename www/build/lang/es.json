@@ -463,7 +463,7 @@
     "mm.question.notyetanswered": "Aún no se ha dado respuesta",
     "mm.question.partiallycorrect": "Parcialmente correcto",
     "mm.settings.about": "Acerca de",
-    "mm.settings.appname": "Moodle Mobile {{version}}",
+    "mm.settings.appname": "NIAVA {{version}}",
     "mm.settings.appready": "App preparada",
     "mm.settings.cacheexpirationtime": "Tiempo de expiración de caché (mili segundos)",
     "mm.settings.cordovadevicemodel": "Modelo de dispositivo Cordova",

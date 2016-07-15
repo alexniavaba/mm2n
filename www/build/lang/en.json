@@ -220,7 +220,7 @@
     "mm.question.requiresgrading": "Requires grading",
     "mm.question.unknown": "Cannot determine status",
     "mm.settings.about": "About",
-    "mm.settings.appname": "Moodle Mobile {{version}}",
+    "mm.settings.appname": "NIAVA {{version}}",
     "mm.settings.appready": "App ready",
     "mm.settings.cacheexpirationtime": "Cache expiration time (miliseconds)",
     "mm.settings.cordovadevicemodel": "Cordova Device model",

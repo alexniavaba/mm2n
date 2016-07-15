@@ -470,7 +470,7 @@
     "mm.question.questionmessage": "Question {{$a}} : {{$b}}",
     "mm.question.unknown": "Impossible de déterminer l'état",
     "mm.settings.about": "À propos",
-    "mm.settings.appname": "Moodle Mobile {{version}}",
+    "mm.settings.appname": "NIAVA {{version}}",
     "mm.settings.appready": "Prêt pour l'app",
     "mm.settings.cacheexpirationtime": "Durée d'échéance du cache (ms)",
     "mm.settings.cordovadevicemodel": "Modèle Cordova Device",
