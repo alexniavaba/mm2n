@@ -1,9 +1,9 @@
 {
     "app_id" : "com.moodle.moodlemobile",
     "versioncode" : "2013",
-    "versionname" : "3.1.1.1",
+    "versionname" : "3.1.2.1",
     "cache_expiration_time" : 300000,
-    "default_lang" : "en",
+    "default_lang" : "pt",
     "languages": {"en": "English", "es": "Español", "fr" : "Français", "pt-br": "Português - Brasil", "pt": "Português - Portugal"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
